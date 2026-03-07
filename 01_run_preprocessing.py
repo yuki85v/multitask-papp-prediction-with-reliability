@@ -25,6 +25,7 @@ if __name__ == "__main__":
     # Settings
     input_path = 'training_data/'
     model_path = 'trained_model/'
+    os.makedirs(model_path, exist_ok=True)
 
     merge_df = pd.read_csv(f'{input_path}/SupportingInformation_PappValues.csv', dtype={'COMPID': str})
     merge_df.rename(columns={'ChEMBL_ID': 'COMPID'}, inplace=True)
