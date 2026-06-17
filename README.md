@@ -173,9 +173,9 @@ If you use this code or data in your research, please cite:
 @article{doi2025multitask,
   title   = {Multitask Learning for Membrane Permeability Prediction across Assays with Prediction Reliability Assessment},
   author  = {Doi, Yuki and Esaki, Tsuyoshi},
-  journal = Journal of Chemical Information and Modeling,
+  journal = {Journal of Chemical Information and Modeling},
   year    = 2026,
-  doi     = 10.1021/acs.jcim.6c00597
+  doi     = {10.1021/acs.jcim.6c00597}
 }
 ```
 
