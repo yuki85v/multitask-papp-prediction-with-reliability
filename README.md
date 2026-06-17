@@ -4,9 +4,7 @@ This repository contains the source code and training data for the paper:
 
 > **Multitask Learning for Membrane Permeability Prediction across Assays with Prediction Reliability Assessment**
 > Yuki Doi and Tsuyoshi Esaki
-> *[Journal]*, [Year]. DOI: [DOI]
-
-<!-- TODO: Update journal name, year, and DOI when the paper is published. -->
+> *Journal of Chemical Information and Modeling*, 2026. DOI: 10.1021/acs.jcim.6c00597
 
 ## Overview
 
@@ -175,13 +173,11 @@ If you use this code or data in your research, please cite:
 @article{doi2025multitask,
   title   = {Multitask Learning for Membrane Permeability Prediction across Assays with Prediction Reliability Assessment},
   author  = {Doi, Yuki and Esaki, Tsuyoshi},
-  journal = {TODO},
-  year    = {TODO},
-  doi     = {TODO}
+  journal = Journal of Chemical Information and Modeling,
+  year    = 2026,
+  doi     = 10.1021/acs.jcim.6c00597
 }
 ```
-
-<!-- TODO: Update journal, year, and DOI when the paper is published. -->
 
 ## Acknowledgments
 
